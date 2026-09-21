@@ -1,0 +1,1 @@
+# halolo-stock-web
